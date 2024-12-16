@@ -1,0 +1,9 @@
+import java;
+	String encrypt(String txt, int shift[] - 5) {
+		String bid = "";
+		int 
+		
+		
+	String decode(String txt, int shift[] + 5) {
+		String bid = "";
+		int 
